@@ -67,5 +67,7 @@ Make sure you have installed the following libraries in your Arduino IDE before 
 <div align="center">
   <img src="docs/robot-design-illustration.png" alt="A-MIMIR Robot Design Reference" width="600"/>
   <p><i>Physical design illustration of A-MIMIR. (Original built model broke long ago 🥀)</i></p>
+  <p><i>P.S. This project was built at the end of the third semester, while the documentation was written in the seventh semester.</i></p>
+
 </div>
 
