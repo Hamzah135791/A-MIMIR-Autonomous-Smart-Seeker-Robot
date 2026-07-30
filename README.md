@@ -62,15 +62,10 @@ Make sure you have installed the following libraries in your Arduino IDE before 
 
 ---
 
-## 📷 Robot Overview & System Architecture
+## 📷 Robot Overview
 
 <div align="center">
   <img src="docs/robot-design-illustration.png" alt="A-MIMIR Robot Design Reference" width="600"/>
-  <p><i>Figure 1: Physical design illustration / reference model of A-MIMIR.</i></p>
+  <p><i>Physical design illustration of A-MIMIR. (Original built model broke long ago 🥀)</i></p>
 </div>
 
-### System Diagrams
-| System Flowchart | Circuit Schematic |
-| :---: | :---: |
-| <img src="docs/system-flowchart.png" alt="Flowchart" width="380"/> | <img src="assets/schematic.png" alt="Schematic" width="380"/> |
-| *System Decision & Navigation Logic* | *Hardware Pin & Shield Wiring Diagram* |
